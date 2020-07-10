@@ -1,0 +1,9 @@
+C:\Users\Ytka\Desktop\практика\777\777\bin\Debug\777.exe.config
+C:\Users\Ytka\Desktop\практика\777\777\bin\Debug\777.exe
+C:\Users\Ytka\Desktop\практика\777\777\bin\Debug\777.pdb
+C:\Users\Ytka\Desktop\практика\777\777\obj\Debug\_777.Form1.resources
+C:\Users\Ytka\Desktop\практика\777\777\obj\Debug\_777.Properties.Resources.resources
+C:\Users\Ytka\Desktop\практика\777\777\obj\Debug\777.csproj.GenerateResource.cache
+C:\Users\Ytka\Desktop\практика\777\777\obj\Debug\777.exe
+C:\Users\Ytka\Desktop\практика\777\777\obj\Debug\777.pdb
+C:\Users\Ytka\Desktop\практика\777\777\obj\Debug\777.csprojAssemblyReference.cache
